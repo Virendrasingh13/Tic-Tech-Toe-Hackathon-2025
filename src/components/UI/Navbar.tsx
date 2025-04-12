@@ -15,7 +15,7 @@ const Navbar = () => {
     <header className="sticky top-0 z-10 w-full bg-background/95 backdrop-blur border-b">
       <div className="container flex h-16 items-center justify-between py-4">
         <div className="flex items-center gap-2">
-          <span className="text-2xl font-bold text-primary">ExpenseTracker</span>
+          <span className="text-2xl font-bold text-primary">PixelPurse</span>
         </div>
         
         <div className="flex items-center gap-4">
